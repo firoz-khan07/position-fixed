@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.section-1{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),url("../image/architecture-1122359_1280.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-attachment: fixed;
+}
+
+
+.section-2{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),url("https://media.istockphoto.com/id/1414027697/photo/palmer-square-in-princeton-new-jersey.jpg?s=1024x1024&w=is&k=20&c=YjKVtyZ5xxOf8dXLMGjJjc_88CYN-6-jlD6WRSBSLl8=");
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-attachment: fixed;
+
+      
+}
+
+
+.section-3{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),url("https://media.istockphoto.com/id/598140922/photo/street-in-beuvron-en-auge-france.jpg?s=2048x2048&w=is&k=20&c=p2OcYGhTuj6DucOJC622UYYjsoQkppWkz5PAENRWeP4=");
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-attachment: fixed;
+
+      
+}
+
+
+.section-4{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)),url("https://media.istockphoto.com/id/684955550/photo/historic-warwick-tudor-black-and-white-timber-architecture.jpg?s=612x612&w=0&k=20&c=maBqIBMMnVVV7kPUDlTgJH35xN2O-Yqo26PlqT065s0=");
+        /* background-repeat: no-repeat; */
+        background-size: 100% auto;
+        background-attachment: fixed;
+
+      
+}
+
+
+h2{
+    font-size: 64px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 2px 2px 5px #000;
+
+}
+
+p{
+    font-size: 20px;
+    color: #fff;
+}
